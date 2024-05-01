@@ -1,0 +1,2 @@
+A U B = { 1, 2, 3 }
+A INTERSECT B = { 2 }
