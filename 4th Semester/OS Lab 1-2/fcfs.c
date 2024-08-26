@@ -14,6 +14,7 @@ struct Process
 
 int main()
 {
+    
     FILE *file;
     struct Process ps[100];
     int count = 0;
